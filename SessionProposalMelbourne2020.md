@@ -13,7 +13,7 @@ This is colossal growth amongst use by researchers. **The RDA absolutely needs t
 
 More recently the deployment of resources such as JupyterHub, myBinder and EGI notebooks mean that notebooks can be deployed on a cloud and hence obviates issues with installed libraries. One potential result of this is that it would represent the easiest pathway for users to use cloud computing resources for research which could transform the use of such resources. It is clear that frameworks such as EOSC and the US National Data Service will make extensive use of notebooks and their offerings affected by them. 
 
-An Interest Group will be proposed to match this BoF sssion. A set of topics (discussed in detail in the objectves below) has been arrived at that a) would make a tangible contribution to the notebook community and b) make use of the configuration of expertise within the RDA community that would not be available elsewhere. Briefly these are 
+An Interest Group will be proposed to match this BoF session. A set of topics (discussed in detail in the objectves below) has been arrived at that a) would make a tangible contribution to the notebook community and b) make use of the configuration of expertise within the RDA community that would not be available elsewhere. Briefly these are 
 
 - Publishing (and citing) notebooks
 - Long term preservation of notebooks
