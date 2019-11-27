@@ -27,13 +27,13 @@ Martin Fenner of the software source code identification WG has agreed to coordi
 
 
 __Meeting agenda__
-1. A brief introduction to notebooks (5 minutes HS).
-2. Publishing notebooks. (5 Minutes Martin Fenner - member of software source code identification WG)
-3. Long term preservation of notebooks. (5 Minutes Patricia Herterich) 
-4. Notebooks as FAIR digital objects. (5 Minutes Rob Quick)
-5. Notebooks for Big data and compute . (5 Minutes Gergely Sipos)
-6. Break-out groups to discuss topics 2-5. (45 Minutes)
-7. Report back and consideration of next steps. (20 Minutes)
+1. Introduction (5 minutes HS).
+2. Report back on Publishing notebooks. (5 Minutes Martin Fenner - member of software source code identification WG)
+3. Report back on Long term preservation of notebooks. (5 Minutes Patricia Herterich) 
+4. Report back on Notebooks as FAIR digital objects. (5 Minutes Rob Quick)
+5. Report back on Notebooks for Big data and compute . (5 Minutes Gergely Sipos)
+6. Break-out groups to discuss proposals for WG's. (45 Minutes)
+7. Report back and recommendations for WG's. (20 Minutes)
 
 
 
@@ -42,6 +42,8 @@ __Please give a short introduction describing any previous activities__
 A successful BoF was run on this topic at RDA Helsinki where the above topics were initially discussed. 
 
 This session proposal is based on a wide variety of activities - names included in parenthesis indicate individuals who have expressed an interest in this proposal. Software citation (Martin Fenner, Neil Chue Hong) is an active IG and WG in the RDA and providing guidelines for the citation of notebooks would be an excellent use case for these groups. The research library community are extensively exploring the potential of notebooks to facilitate data and software management and reproducibility (Rosie Higman, Jez Cope and Patricia Heterich). Notebooks provide an interesting use case for PID’s in data (Rob Quick) and likewise for computational services (Gergely Sipos, Enol Fernández and Christine Kirkpatrick). This meeting also provides a moment for deployment services such as myBinder (Tim Head) to engage with the RDA. Finally the Neutron and Photon Science community (Brian Matthews and Frank Schluenzen) and the relevant IG make very extensive use of notebooks and hence complements these activities. 
+
+The topics that have been followed up on since Helsinki will report back and as an output for the meeting one or more WG's will be proposed on the basis of those topics. 
 
 
 
@@ -67,12 +69,12 @@ __Would you like to request support for remote participation in your group meeti
 Yes
 
 __Avoid conflict with the following groups__
-Software Source Code Identification 
+
+Software Source Code IG 
+
+Software Source Code Identification WG. 
 Data Fabric 
 Open Science Graphs for FAIR Data
 Reproducibility  (Not very active)
-Software Source Code
-
-FAIR Software
 
 Research data needs of the Photon and Neutron Science community IG
